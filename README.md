@@ -1,2 +1,2 @@
 # IteratorPractice-inclass
-CSIS 225 Spring 2021 Iterator Practice Starter
+CSIS 225 Spring 2022 Iterator Practice Starter
